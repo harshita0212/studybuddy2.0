@@ -438,3 +438,12 @@ form{
     color: white;
     font-weight: 500;
   }
+
+  .inputs {
+    width: 80%;
+    box-sizing: border-box;   
+    margin-bottom: 5px;
+}
+
+  /** here i'm using my code for the alignment of the post class menu it's not adjusted properly/
+  
